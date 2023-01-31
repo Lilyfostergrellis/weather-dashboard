@@ -24,6 +24,8 @@ This project is a Weather Dashboard written and developed using Javascript/jQuer
 
 The following animation demonstrates the application functionality:
 
+![A 5 day weather forecast is displayed from the users input into a search bar. A list of previous searches is displayed on the left hand side of the page.](/assets/weather-dashboard-landing-page.png)
+
 
 ## Links
 
